@@ -1,0 +1,36 @@
+ToC
+Game Design Elements
+1.PC And NPC 
+  The Charecter And Enemy
+2.Goal 
+  Deafete all Enemies
+3.Rules
+ A Break Beteawn Attack
+ You Win only after defeatinf The enemy 
+ You lose when you lose all your lives
+ You Can punch when you press enter
+ you can doge when you press Space
+ You Can move with arrow keys 
+ the enemy gets clouser to You
+ you have certain  amount of lives
+ The enemy gets touher
+4.Chances vs Skill
+  enemy may not doge your attack Vs your timeing to press button
+5.Balence
+ you have certain amount of lives and break betwean attack
+ vs 
+ the enemy will only doge when you attack
+6.Adaptivity
+ The enemy gets touher
+7.FeedBack
+ sound effects
+ the live will reduce
+8.Story 
+Justine is The Name Of Pc , He has been practicing for 10 year to fight in these tournemnt. he has fought before in this tournemnt but he loast at the first round by a K/O ,he was over
+confident that he will win but after the match he understand that he was no match for the othes so he trained, in these tournement all the best fighters from the world come here. the 
+tournement is of 3 match of  2 round, the one with most win wins the tournemnt, the person who wins these tournemnt will be decleard as the strongest fighter he will also win 10,000 $,
+the first round was easy for justin but in the second round he fought the person who deafeted him last time , and in the third round it was the last times champion
+
+
+ 
+ 
